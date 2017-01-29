@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="spring-jpa-v2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/spring-jpa-v2.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
