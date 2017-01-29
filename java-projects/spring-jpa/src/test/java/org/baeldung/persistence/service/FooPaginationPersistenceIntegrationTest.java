@@ -62,7 +62,8 @@ public class FooPaginationPersistenceIntegrationTest {
 
         // When
         final List<Foo> fooList = query.getResultList();
-
+        for (Foo foo:fooList)
+        System.out.println(foo.getId() + "  " + foo.getName());
         // Then
         assertThat(fooList, hasSize(pageSize));
     }

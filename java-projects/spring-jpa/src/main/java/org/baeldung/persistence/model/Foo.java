@@ -32,6 +32,8 @@ public class Foo implements Serializable {
     private long id;
     @Column(name = "NAME")
     private String name;
+    @Column(name = "lastNAME")
+    private String lastName;
 
     @ManyToOne(targetEntity = Bar.class, fetch = FetchType.EAGER)
     @JoinColumn(name = "BAR_ID")
@@ -43,6 +45,13 @@ public class Foo implements Serializable {
 
     public void setBar(final Bar bar) {
         this.bar = bar;
+    }
+
+    public void setLastName(String lastName){
+        this.lastName = lastName;
+    }
+    public String getLastName(){
+        return lastName;
     }
 
     public long getId() {
