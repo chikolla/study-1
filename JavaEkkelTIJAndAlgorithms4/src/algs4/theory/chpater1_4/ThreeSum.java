@@ -1,7 +1,7 @@
 package algs4.theory.chpater1_4;
 
-import alg4s.basic.StdOut;
-import alg4s.basic.search.Counter;
+import algs4.basic.StdOut;
+import algs4.basic.search.Counter;
 
 import java.math.BigInteger;
 

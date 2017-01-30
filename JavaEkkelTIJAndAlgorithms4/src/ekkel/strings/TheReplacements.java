@@ -5,7 +5,7 @@ import net.mindview.util.TextFile;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-import static alg4s.basic.StdOut.print;
+import static algs4.basic.StdOut.print;
 
 /**
  * Created by halfmediator on 28.01.2017.

@@ -1,7 +1,7 @@
 package algs4.theory.chpater1_4;
 
-import alg4s.basic.StdOut;
-import alg4s.basic.StdRandom;
+import algs4.basic.StdOut;
+import algs4.basic.StdRandom;
 
 /**
  * Created by halfmediator on 23.01.2017.

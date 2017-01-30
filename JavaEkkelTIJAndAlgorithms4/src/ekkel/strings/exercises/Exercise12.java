@@ -5,7 +5,7 @@ import java.util.Set;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-import static alg4s.basic.StdOut.println;
+import static algs4.basic.StdOut.println;
 
 /**
  * Exercise 12: (5) Modify Groups.java to count all of the unique words that do not start

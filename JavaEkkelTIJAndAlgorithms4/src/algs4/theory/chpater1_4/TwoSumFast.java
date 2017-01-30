@@ -1,7 +1,7 @@
 package algs4.theory.chpater1_4;
 
-import alg4s.basic.StdOut;
-import alg4s.basic.search.BinarySearch;
+import algs4.basic.StdOut;
+import algs4.basic.search.BinarySearch;
 
 import java.util.Arrays;
 

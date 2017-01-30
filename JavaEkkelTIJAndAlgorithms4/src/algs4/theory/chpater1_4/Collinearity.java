@@ -1,6 +1,6 @@
 package algs4.theory.chpater1_4;
 
-import alg4s.basic.geometry.Point2D;
+import algs4.basic.geometry.Point2D;
 
 /**
  * Created by halfmediator on 25.01.2017.

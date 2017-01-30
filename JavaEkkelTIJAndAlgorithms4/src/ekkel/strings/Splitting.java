@@ -1,6 +1,6 @@
 package ekkel.strings;
 
-import alg4s.basic.StdOut;
+import algs4.basic.StdOut;
 
 import java.util.Arrays;
 

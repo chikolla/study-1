@@ -1,13 +1,9 @@
 package ekkel.typeinfo;
 
-import alg4s.basic.StdOut;
+import algs4.basic.StdOut;
 
-import java.io.BufferedReader;
-import java.io.IOException;
-import java.io.InputStreamReader;
-
-import static alg4s.basic.StdOut.print;
-import static alg4s.basic.StdOut.println;
+import static algs4.basic.StdOut.print;
+import static algs4.basic.StdOut.println;
 
 /**
  * Created by nugusbayevkk on 1/29/17.

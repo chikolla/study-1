@@ -1,7 +1,7 @@
 package ekkel.typeinfo;
 
-import static alg4s.basic.StdOut.print;
-import static alg4s.basic.StdOut.println;
+import static algs4.basic.StdOut.print;
+import static algs4.basic.StdOut.println;
 
 /**
  * Created by nugusbayevkk on 1/29/17.

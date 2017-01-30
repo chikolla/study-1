@@ -3,7 +3,7 @@ package ekkel.strings;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-import static alg4s.basic.StdOut.println;
+import static algs4.basic.StdOut.println;
 
 /**
  * Created by halfmediator on 28.01.2017.

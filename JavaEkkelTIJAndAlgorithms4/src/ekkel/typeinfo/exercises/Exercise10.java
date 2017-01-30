@@ -1,6 +1,6 @@
 package ekkel.typeinfo.exercises;
 
-import alg4s.basic.StdOut;
+import algs4.basic.StdOut;
 
 /**
  * Created by nugusbayevkk on 1/29/17.

@@ -1,6 +1,6 @@
 package net.mindview.util;
 
-import alg4s.basic.StdOut;
+import algs4.basic.StdOut;
 
 import java.io.BufferedInputStream;
 import java.io.File;

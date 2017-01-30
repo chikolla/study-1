@@ -1,7 +1,6 @@
 package algs4.chapter1_5;
 
-import alg4s.basic.StdIn;
-import alg4s.basic.StdOut;
+import algs4.basic.StdOut;
 
 /**
  * Created by nugusbayevkk on 1/29/17.

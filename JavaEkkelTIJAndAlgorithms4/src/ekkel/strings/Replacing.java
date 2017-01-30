@@ -1,6 +1,6 @@
 package ekkel.strings;
 
-import alg4s.basic.StdOut;
+import algs4.basic.StdOut;
 
 /**
  * Created by halfmediator on 28.01.2017.

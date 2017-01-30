@@ -1,9 +1,9 @@
 package ekkel.typeinfo.exercises;
 
-import alg4s.basic.StdOut;
+import algs4.basic.StdOut;
 import ekkel.typeinfo.ToyTesst;
 
-import static alg4s.basic.StdOut.println;
+import static algs4.basic.StdOut.println;
 
 /**
  * Created by nugusbayevkk on 1/29/17.

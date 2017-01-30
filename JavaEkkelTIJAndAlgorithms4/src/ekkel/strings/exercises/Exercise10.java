@@ -1,6 +1,6 @@
 package ekkel.strings.exercises;
 
-import alg4s.basic.StdOut;
+import algs4.basic.StdOut;
 
 import java.util.regex.Pattern;
 

@@ -1,6 +1,6 @@
 package algs4.theory.chpater1_4;
 
-import alg4s.basic.StdOut;
+import algs4.basic.StdOut;
 
 import java.math.BigInteger;
 
