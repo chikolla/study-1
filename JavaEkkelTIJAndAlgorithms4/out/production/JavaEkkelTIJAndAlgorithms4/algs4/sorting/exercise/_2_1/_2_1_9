@@ -1,0 +1,49 @@
+2.1.9 Show, in the style of the example trace with Algorithm 2.3, how shellsort sorts
+the array E A S Y S H E L L S O R T Q U E S T I O N .
+
+ E A S Y S H E L L S O R T Q U E S T I O N
+ we have N = 21 elements
+ we need calculate h value(our step)
+ h= 3*h +1, and h < N/3( 7)
+ h = 4;
+ 4 is our step
+ i=4;
+ S>E;
+ E A S Y S H E L L S O R T Q U E S T I O N
+ H>A
+ E<S
+ E A E Y S H S L L S O R T Q U E S T I O N
+ L<Y
+ E A E L S H S Y L S O R T Q U E S T I O N
+ L<S
+ E A E L L H S Y S [S] O R T Q U E S T I O N
+ S=H
+ E A E L L H [S] Y S S [O] R T Q U E S T I O N
+ O<S
+ E A E L L H [O] Y S S [S] R T Q U E S T I O N
+ R<Y
+ E A E L L H O [Y] S S S [R] T Q U E S T I O N
+ E A E L L H O [R] S S S [Y] T Q U E S T I O N
+ T>S nothing to change
+ E A E L L H O R [S] S S Y [T] Q U E S T I O N
+ E A E L L H O R S [S] S Y T [Q] U E S T I O N
+Q<S
+  E A E L L H O R S [Q] S Y T [S] U E S T I O N
+  E A E L L H O R S Q [S] Y T S [U] E S T I O N
+  S<U nothinh
+  E A E L L H O R S Q S [Y] T S U [E] S T I O N
+  E<Y
+  E A E L L H O R S Q S [E] T S U [Y] S T I O N
+  E A E L L H O R S Q S E [T] S U Y [S] T I O N
+  S<T
+  E A E L L H O R S Q S E [S] S U Y [T] T I O N
+  ...
+  E A E L L H O R S Q S E S S I O N T U Y T
+  we ended sort
+  then we recalculate h = h/3 = 4/3 =1;
+  then from the i=1 element we begin insertion sort;
+  we take at first
+  A E E ..
+
+  and in result we take
+  A E E E H I L L N O O Q R S S S S T T Y U
