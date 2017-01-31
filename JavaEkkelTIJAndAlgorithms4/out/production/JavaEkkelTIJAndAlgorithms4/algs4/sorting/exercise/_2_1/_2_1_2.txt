@@ -1,0 +1,7 @@
+What is the maximum number of exchanges involving any particular element
+during selection sort? What is the average number of exchanges involving an element?
+
+max number is 1 exchange.
+average number is ~1 exchange
+
+

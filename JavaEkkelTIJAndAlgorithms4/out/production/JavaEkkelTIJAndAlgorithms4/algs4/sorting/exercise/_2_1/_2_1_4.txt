@@ -1,0 +1,14 @@
+2.1.4 Show, in the style of the example trace with Algorithm 2.2, how insertion sort
+sorts the array E A S Y Q U E S T I O N .
+
+E A S Y Q U E S T I O N
+A E S Y Q U E S T I O N
+A E S Y Q U E S T I O N
+A E S Y Q U E S T I O N
+A E Q S Y U E S T I O N
+A E E Q S Y U S T I O N
+A E E Q S S Y U T I O N
+A E E Q S S T Y U I O N
+A E E I O Q S S T Y U N
+A E E I N O Q S S T Y U
+

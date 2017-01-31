@@ -5,190 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0fc45853-eb5e-4232-bde7-c77226752b12" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/algs4/sorting/Date.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/algs4/sorting/Example.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/algs4/sorting/Selection.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/misc.xml___jb_tmp___" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/alg4s/basic/In.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/alg4s/basic/Out.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/alg4s/basic/StdDraw.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/alg4s/basic/StdIn.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/alg4s/basic/StdOut.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/alg4s/basic/StdRandom.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/alg4s/basic/dataabstraction/Accumulator.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/alg4s/basic/dataabstraction/SmartDate.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/alg4s/basic/dataabstraction/StaticSETofInts.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/alg4s/basic/dataabstraction/Transaction.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/alg4s/basic/datastructures/Deque$DequeIterator.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/alg4s/basic/datastructures/Deque$Node.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/alg4s/basic/datastructures/Deque.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/alg4s/basic/datastructures/Deque3Stack.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/alg4s/basic/datastructures/FixedCapacityStackOfStrings.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/alg4s/basic/datastructures/Queue$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/alg4s/basic/datastructures/Queue$ListIterator.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/alg4s/basic/datastructures/Queue$Node.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/alg4s/basic/datastructures/Queue.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/alg4s/basic/datastructures/QueueStack.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/alg4s/basic/datastructures/ResizingArrayStack$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/alg4s/basic/datastructures/ResizingArrayStack$ReverseArrayIterator.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/alg4s/basic/datastructures/ResizingArrayStack.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/alg4s/basic/datastructures/Stack$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/alg4s/basic/datastructures/Stack$ListIterator.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/alg4s/basic/datastructures/Stack$Node.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/alg4s/basic/datastructures/Stack.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/alg4s/basic/datastructures/StackArray.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/alg4s/basic/datastructures/StackQueue.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/alg4s/basic/datastructures/Steque$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/alg4s/basic/datastructures/Steque$Node.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/alg4s/basic/datastructures/Steque.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/alg4s/basic/datastructures/StequeStack.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/alg4s/basic/geometry/Interval1D$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/alg4s/basic/geometry/Interval1D$LeftComparator.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/alg4s/basic/geometry/Interval1D$LengthComparator.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/alg4s/basic/geometry/Interval1D$RightComparator.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/alg4s/basic/geometry/Interval1D.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/alg4s/basic/geometry/Interval2D.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/alg4s/basic/geometry/Point2D$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/alg4s/basic/geometry/Point2D$Atan2Order.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/alg4s/basic/geometry/Point2D$DistanceToOrder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/alg4s/basic/geometry/Point2D$PolarOrder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/alg4s/basic/geometry/Point2D$ROrder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/alg4s/basic/geometry/Point2D$XOrder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/alg4s/basic/geometry/Point2D$YOrder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/alg4s/basic/geometry/Point2D.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/alg4s/basic/geometry/Print2D.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/alg4s/basic/search/BinarySearch.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/alg4s/basic/search/Counter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/alg4s/basic/search/SearchSameElements.class" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/alg4s/basic/In.java" afterPath="$PROJECT_DIR$/src/algs4/basic/In.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/alg4s/basic/Out.java" afterPath="$PROJECT_DIR$/src/algs4/basic/Out.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/alg4s/basic/StdDraw.java" afterPath="$PROJECT_DIR$/src/algs4/basic/StdDraw.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/alg4s/basic/StdIn.java" afterPath="$PROJECT_DIR$/src/algs4/basic/StdIn.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/alg4s/basic/StdOut.java" afterPath="$PROJECT_DIR$/src/algs4/basic/StdOut.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/alg4s/basic/StdRandom.java" afterPath="$PROJECT_DIR$/src/algs4/basic/StdRandom.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/alg4s/basic/dataabstraction/Accumulator.java" afterPath="$PROJECT_DIR$/src/algs4/basic/dataabstraction/Accumulator.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/alg4s/basic/dataabstraction/SmartDate.java" afterPath="$PROJECT_DIR$/src/algs4/basic/dataabstraction/SmartDate.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/alg4s/basic/dataabstraction/StaticSETofInts.java" afterPath="$PROJECT_DIR$/src/algs4/basic/dataabstraction/StaticSETofInts.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/alg4s/basic/dataabstraction/Transaction.java" afterPath="$PROJECT_DIR$/src/algs4/basic/dataabstraction/Transaction.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/alg4s/basic/datastructures/Deque.java" afterPath="$PROJECT_DIR$/src/algs4/basic/datastructures/Deque.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/alg4s/basic/datastructures/Deque3Stack.java" afterPath="$PROJECT_DIR$/src/algs4/basic/datastructures/Deque3Stack.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/alg4s/basic/datastructures/FixedCapacityStackOfStrings.java" afterPath="$PROJECT_DIR$/src/algs4/basic/datastructures/FixedCapacityStackOfStrings.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/alg4s/basic/datastructures/Queue.java" afterPath="$PROJECT_DIR$/src/algs4/basic/datastructures/Queue.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/alg4s/basic/datastructures/QueueStack.java" afterPath="$PROJECT_DIR$/src/algs4/basic/datastructures/QueueStack.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/alg4s/basic/datastructures/ResizingArrayStack.java" afterPath="$PROJECT_DIR$/src/algs4/basic/datastructures/ResizingArrayStack.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/alg4s/basic/datastructures/Stack.java" afterPath="$PROJECT_DIR$/src/algs4/basic/datastructures/Stack.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/alg4s/basic/datastructures/StackArray.java" afterPath="$PROJECT_DIR$/src/algs4/basic/datastructures/StackArray.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/alg4s/basic/datastructures/StackQueue.java" afterPath="$PROJECT_DIR$/src/algs4/basic/datastructures/StackQueue.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/alg4s/basic/datastructures/Steque.java" afterPath="$PROJECT_DIR$/src/algs4/basic/datastructures/Steque.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/alg4s/basic/datastructures/StequeStack.java" afterPath="$PROJECT_DIR$/src/algs4/basic/datastructures/StequeStack.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/alg4s/basic/geometry/Interval1D.java" afterPath="$PROJECT_DIR$/src/algs4/basic/geometry/Interval1D.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/alg4s/basic/geometry/Interval2D.java" afterPath="$PROJECT_DIR$/src/algs4/basic/geometry/Interval2D.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/alg4s/basic/geometry/Point2D.java" afterPath="$PROJECT_DIR$/src/algs4/basic/geometry/Point2D.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/alg4s/basic/geometry/Print2D.java" afterPath="$PROJECT_DIR$/src/algs4/basic/geometry/Print2D.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/alg4s/basic/search/BinarySearch.java" afterPath="$PROJECT_DIR$/src/algs4/basic/search/BinarySearch.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/alg4s/basic/search/Counter.java" afterPath="$PROJECT_DIR$/src/algs4/basic/search/Counter.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/alg4s/basic/search/SearchSameElements.java" afterPath="$PROJECT_DIR$/src/algs4/basic/search/SearchSameElements.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/algs4/theory/chpater1_4/ClosestPair.class" afterPath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/algs4/theory/chpater1_4/ClosestPair.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/algs4/theory/chpater1_4/Collinearity.class" afterPath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/algs4/theory/chpater1_4/Collinearity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/algs4/theory/chpater1_4/DoublingRatio.class" afterPath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/algs4/theory/chpater1_4/DoublingRatio.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/algs4/theory/chpater1_4/DoublingTest.class" afterPath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/algs4/theory/chpater1_4/DoublingTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/algs4/theory/chpater1_4/FibonacciSearch.class" afterPath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/algs4/theory/chpater1_4/FibonacciSearch.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/algs4/theory/chpater1_4/FourSum.class" afterPath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/algs4/theory/chpater1_4/FourSum.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/algs4/theory/chpater1_4/LocalMinimum.class" afterPath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/algs4/theory/chpater1_4/LocalMinimum.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/algs4/theory/chpater1_4/SearchBitonicArray.class" afterPath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/algs4/theory/chpater1_4/SearchBitonicArray.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/algs4/theory/chpater1_4/Stopwatch.class" afterPath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/algs4/theory/chpater1_4/Stopwatch.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/algs4/theory/chpater1_4/ThreeSum.class" afterPath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/algs4/theory/chpater1_4/ThreeSum.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/algs4/theory/chpater1_4/TreeSumFast.class" afterPath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/algs4/theory/chpater1_4/TreeSumFast.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/algs4/theory/chpater1_4/TwoPairSort.class" afterPath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/algs4/theory/chpater1_4/TwoPairSort.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/algs4/theory/chpater1_4/TwoSum.class" afterPath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/algs4/theory/chpater1_4/TwoSum.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/algs4/theory/chpater1_4/TwoSumFast.class" afterPath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/algs4/theory/chpater1_4/TwoSumFast.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/algs4/theory/chpater1_4/nXn_MatrixLocalMinimum$Input2DArrayGenerator.class" afterPath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/algs4/theory/chpater1_4/nXn_MatrixLocalMinimum$Input2DArrayGenerator.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/algs4/theory/chpater1_4/nXn_MatrixLocalMinimum$LocalMininimumFoundException.class" afterPath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/algs4/theory/chpater1_4/nXn_MatrixLocalMinimum$LocalMininimumFoundException.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/algs4/theory/chpater1_4/nXn_MatrixLocalMinimum.class" afterPath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/algs4/theory/chpater1_4/nXn_MatrixLocalMinimum.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/ekkel/strings/ArrayListDisplay.class" afterPath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/ekkel/strings/ArrayListDisplay.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/ekkel/strings/BetterRead.class" afterPath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/ekkel/strings/BetterRead.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/ekkel/strings/CharSequence.class" afterPath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/ekkel/strings/CharSequence.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/ekkel/strings/Concatenation.class" afterPath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/ekkel/strings/Concatenation.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/ekkel/strings/Conversion.class" afterPath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/ekkel/strings/Conversion.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/ekkel/strings/DatabaseConnection.class" afterPath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/ekkel/strings/DatabaseConnection.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/ekkel/strings/DatabaseException.class" afterPath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/ekkel/strings/DatabaseException.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/ekkel/strings/Finding.class" afterPath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/ekkel/strings/Finding.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/ekkel/strings/Groups.class" afterPath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/ekkel/strings/Groups.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/ekkel/strings/Hex.class" afterPath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/ekkel/strings/Hex.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/ekkel/strings/InfiniteRecursion.class" afterPath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/ekkel/strings/InfiniteRecursion.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/ekkel/strings/IntegerMatch.class" afterPath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/ekkel/strings/IntegerMatch.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/ekkel/strings/JGREP.class" afterPath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/ekkel/strings/JGREP.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/ekkel/strings/ReFlags.class" afterPath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/ekkel/strings/ReFlags.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/ekkel/strings/Receipt.class" afterPath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/ekkel/strings/Receipt.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/ekkel/strings/Replacing.class" afterPath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/ekkel/strings/Replacing.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/ekkel/strings/ReplacingStringTokenizer.class" afterPath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/ekkel/strings/ReplacingStringTokenizer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/ekkel/strings/Resetting.class" afterPath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/ekkel/strings/Resetting.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/ekkel/strings/Rudolph.class" afterPath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/ekkel/strings/Rudolph.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/ekkel/strings/ScannerDelimiter.class" afterPath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/ekkel/strings/ScannerDelimiter.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/ekkel/strings/SimpleRead.class" afterPath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/ekkel/strings/SimpleRead.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/ekkel/strings/SplitDemo.class" afterPath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/ekkel/strings/SplitDemo.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/ekkel/strings/Splitting.class" afterPath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/ekkel/strings/Splitting.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/ekkel/strings/StartEnd$Display.class" afterPath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/ekkel/strings/StartEnd$Display.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/ekkel/strings/StartEnd.class" afterPath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/ekkel/strings/StartEnd.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/ekkel/strings/Test.class" afterPath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/ekkel/strings/Test.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/ekkel/strings/TestRegularExpression.class" afterPath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/ekkel/strings/TestRegularExpression.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/ekkel/strings/TheReplacements.class" afterPath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/ekkel/strings/TheReplacements.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/ekkel/strings/ThreatAnalyzer.class" afterPath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/ekkel/strings/ThreatAnalyzer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/ekkel/strings/WhitherStringBuilder.class" afterPath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/ekkel/strings/WhitherStringBuilder.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/ekkel/strings/exercises/Exercise10.class" afterPath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/ekkel/strings/exercises/Exercise10.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/ekkel/strings/exercises/Exercise11.class" afterPath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/ekkel/strings/exercises/Exercise11.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/ekkel/strings/exercises/Exercise12.class" afterPath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/ekkel/strings/exercises/Exercise12.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/ekkel/strings/exercises/Exercise6.class" afterPath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/ekkel/strings/exercises/Exercise6.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/ekkel/strings/exercises/Exercise7.class" afterPath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/ekkel/strings/exercises/Exercise7.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/ekkel/strings/exercises/Exercise8.class" afterPath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/ekkel/strings/exercises/Exercise8.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/ekkel/strings/exercises/Exercise9.class" afterPath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/ekkel/strings/exercises/Exercise9.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/net/mindview/util/BinaryFile.class" afterPath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/net/mindview/util/BinaryFile.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/net/mindview/util/TextFile.class" afterPath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/net/mindview/util/TextFile.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/algs4/sorting/Insertion.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/algs4/sorting/Shell.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/algs4/sorting/SortCompare.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/algs4/sorting/exercise/_2_1/WhichFasterIdenticalKey.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/algs4/sorting/exercise/_2_1/WhichFasterReverseOrder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/algs4/sorting/exercise/_2_1/_2_1_1.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/algs4/sorting/exercise/_2_1/_2_1_2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/algs4/sorting/exercise/_2_1/_2_1_3.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/algs4/sorting/exercise/_2_1/_2_1_4.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/algs4/sorting/exercise/_2_1/_2_1_5.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/algs4/chapter1_5/UF.java" afterPath="$PROJECT_DIR$/src/algs4/chapter1_5/UF.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/algs4/chapter1_5/WeightedQuickUnionUF.java" afterPath="$PROJECT_DIR$/src/algs4/chapter1_5/WeightedQuickUnionUF.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/algs4/theory/chpater1_4/ClosestPair.java" afterPath="$PROJECT_DIR$/src/algs4/theory/chpater1_4/ClosestPair.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/algs4/theory/chpater1_4/Collinearity.java" afterPath="$PROJECT_DIR$/src/algs4/theory/chpater1_4/Collinearity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/algs4/theory/chpater1_4/DoublingRatio.java" afterPath="$PROJECT_DIR$/src/algs4/theory/chpater1_4/DoublingRatio.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/algs4/theory/chpater1_4/DoublingTest.java" afterPath="$PROJECT_DIR$/src/algs4/theory/chpater1_4/DoublingTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/algs4/theory/chpater1_4/FourSum.java" afterPath="$PROJECT_DIR$/src/algs4/theory/chpater1_4/FourSum.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/algs4/theory/chpater1_4/Stopwatch.java" afterPath="$PROJECT_DIR$/src/algs4/theory/chpater1_4/Stopwatch.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/algs4/theory/chpater1_4/ThreeSum.java" afterPath="$PROJECT_DIR$/src/algs4/theory/chpater1_4/ThreeSum.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/algs4/theory/chpater1_4/TreeSumFast.java" afterPath="$PROJECT_DIR$/src/algs4/theory/chpater1_4/TreeSumFast.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/algs4/theory/chpater1_4/TwoPairSort.java" afterPath="$PROJECT_DIR$/src/algs4/theory/chpater1_4/TwoPairSort.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/algs4/theory/chpater1_4/TwoSum.java" afterPath="$PROJECT_DIR$/src/algs4/theory/chpater1_4/TwoSum.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/algs4/theory/chpater1_4/TwoSumFast.java" afterPath="$PROJECT_DIR$/src/algs4/theory/chpater1_4/TwoSumFast.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ekkel/strings/Finding.java" afterPath="$PROJECT_DIR$/src/ekkel/strings/Finding.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ekkel/strings/Groups.java" afterPath="$PROJECT_DIR$/src/ekkel/strings/Groups.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ekkel/strings/IntegerMatch.java" afterPath="$PROJECT_DIR$/src/ekkel/strings/IntegerMatch.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ekkel/strings/Replacing.java" afterPath="$PROJECT_DIR$/src/ekkel/strings/Replacing.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ekkel/strings/Rudolph.java" afterPath="$PROJECT_DIR$/src/ekkel/strings/Rudolph.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ekkel/strings/SplitDemo.java" afterPath="$PROJECT_DIR$/src/ekkel/strings/SplitDemo.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ekkel/strings/Splitting.java" afterPath="$PROJECT_DIR$/src/ekkel/strings/Splitting.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ekkel/strings/StartEnd.java" afterPath="$PROJECT_DIR$/src/ekkel/strings/StartEnd.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ekkel/strings/TestRegularExpression.java" afterPath="$PROJECT_DIR$/src/ekkel/strings/TestRegularExpression.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ekkel/strings/TheReplacements.java" afterPath="$PROJECT_DIR$/src/ekkel/strings/TheReplacements.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ekkel/strings/exercises/Exercise10.java" afterPath="$PROJECT_DIR$/src/ekkel/strings/exercises/Exercise10.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ekkel/strings/exercises/Exercise11.java" afterPath="$PROJECT_DIR$/src/ekkel/strings/exercises/Exercise11.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ekkel/strings/exercises/Exercise12.java" afterPath="$PROJECT_DIR$/src/ekkel/strings/exercises/Exercise12.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ekkel/strings/exercises/Exercise6.java" afterPath="$PROJECT_DIR$/src/ekkel/strings/exercises/Exercise6.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ekkel/strings/exercises/Exercise7.java" afterPath="$PROJECT_DIR$/src/ekkel/strings/exercises/Exercise7.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ekkel/strings/exercises/Exercise8.java" afterPath="$PROJECT_DIR$/src/ekkel/strings/exercises/Exercise8.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ekkel/strings/exercises/Exercise9.java" afterPath="$PROJECT_DIR$/src/ekkel/strings/exercises/Exercise9.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ekkel/typeinfo/BoundedClassReferences.java" afterPath="$PROJECT_DIR$/src/ekkel/typeinfo/BoundedClassReferences.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ekkel/typeinfo/ClassCasts.java" afterPath="$PROJECT_DIR$/src/ekkel/typeinfo/ClassCasts.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ekkel/typeinfo/GenericToyTest.java" afterPath="$PROJECT_DIR$/src/ekkel/typeinfo/GenericToyTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ekkel/typeinfo/Shapes.java" afterPath="$PROJECT_DIR$/src/ekkel/typeinfo/Shapes.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ekkel/typeinfo/SweetShop.java" afterPath="$PROJECT_DIR$/src/ekkel/typeinfo/SweetShop.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ekkel/typeinfo/ToyTesst.java" afterPath="$PROJECT_DIR$/src/ekkel/typeinfo/ToyTesst.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ekkel/typeinfo/WildcardClassReferences.java" afterPath="$PROJECT_DIR$/src/ekkel/typeinfo/WildcardClassReferences.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ekkel/typeinfo/exercises/Exercise10.java" afterPath="$PROJECT_DIR$/src/ekkel/typeinfo/exercises/Exercise10.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ekkel/typeinfo/exercises/Exercise8.java" afterPath="$PROJECT_DIR$/src/ekkel/typeinfo/exercises/Exercise8.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ekkel/typeinfo/pets/PetCount.java" afterPath="$PROJECT_DIR$/src/ekkel/typeinfo/pets/PetCount.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ekkel/typeinfo/pets/PetCount3.java" afterPath="$PROJECT_DIR$/src/ekkel/typeinfo/pets/PetCount3.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/net/mindview/util/BinaryFile.java" afterPath="$PROJECT_DIR$/src/net/mindview/util/BinaryFile.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../java-projects/spring-jpa/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../java-projects/spring-jpa/.idea/workspace.xml" />
     </list>
     <ignored path="JavaEkkelTIJAndAlgorithms4.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -209,114 +36,117 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="TextFile.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/net/mindview/util/TextFile.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="609">
-              <caret line="30" column="25" lean-forward="false" selection-start-line="30" selection-start-column="25" selection-end-line="30" selection-end-column="25" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SimpleRead.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ekkel/strings/SimpleRead.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="651">
-              <caret line="33" column="1" lean-forward="false" selection-start-line="33" selection-start-column="1" selection-end-line="33" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BetterRead.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ekkel/strings/BetterRead.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="147">
-              <caret line="7" column="1" lean-forward="false" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ScannerDelimiter.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ekkel/strings/ScannerDelimiter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="10" column="36" lean-forward="false" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ThreatAnalyzer.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ekkel/strings/ThreatAnalyzer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="462">
-              <caret line="23" column="39" lean-forward="false" selection-start-line="23" selection-start-column="39" selection-end-line="23" selection-end-column="39" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ReplacingStringTokenizer.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ekkel/strings/ReplacingStringTokenizer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
-              <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="JavaEkkelTIJAndAlgorithms4.iml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JavaEkkelTIJAndAlgorithms4.iml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Example.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/algs4/sorting/Example.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="20" column="14" lean-forward="true" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#214#215#0" expanded="true" />
-                <element signature="e#244#245#0" expanded="true" />
-                <element signature="e#305#306#0" expanded="true" />
-                <element signature="e#346#347#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="273">
+              <caret line="20" column="14" lean-forward="false" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Date.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/algs4/sorting/Date.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="28" column="5" lean-forward="true" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
-              <folding>
-                <element signature="e#780#781#0" expanded="true" />
-                <element signature="e#825#826#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Selection.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Selection.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/algs4/sorting/Selection.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="318">
-              <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+            <state relative-caret-position="360">
+              <caret line="19" column="5" lean-forward="false" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
               <folding>
                 <element signature="e#467#468#0" expanded="true" />
                 <element signature="e#508#509#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Shell.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/algs4/sorting/Shell.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="129">
+              <caret line="12" column="11" lean-forward="true" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+              <folding>
+                <element signature="e#574#575#0" expanded="true" />
+                <element signature="e#617#618#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SortCompare.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/algs4/sorting/SortCompare.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="273">
+              <caret line="45" column="38" lean-forward="false" selection-start-line="45" selection-start-column="38" selection-end-line="45" selection-end-column="38" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Insertion.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/algs4/sorting/Insertion.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="129">
+              <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+              <folding>
+                <element signature="e#388#389#0" expanded="true" />
+                <element signature="e#429#430#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_2_1_5.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/algs4/sorting/exercise/_2_1/_2_1_5.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WhichFasterIdenticalKey.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/algs4/sorting/exercise/_2_1/WhichFasterIdenticalKey.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="234">
+              <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WhichFasterReverseOrder.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/algs4/sorting/exercise/_2_1/WhichFasterReverseOrder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="27" column="34" lean-forward="false" selection-start-line="27" selection-start-column="34" selection-end-line="27" selection-end-column="34" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_2_1_2.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/algs4/sorting/exercise/_2_1/_2_1_2.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_2_1_3.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/algs4/sorting/exercise/_2_1/_2_1_3.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -375,6 +205,16 @@
         <option value="$PROJECT_DIR$/src/algs4/sorting/Example.java" />
         <option value="$PROJECT_DIR$/src/algs4/sorting/Date.java" />
         <option value="$PROJECT_DIR$/src/algs4/sorting/Selection.java" />
+        <option value="$PROJECT_DIR$/src/algs4/sorting/Insertion.java" />
+        <option value="$PROJECT_DIR$/src/algs4/sorting/Shell.java" />
+        <option value="$PROJECT_DIR$/src/algs4/sorting/exercise/_2_1/_2_1_1.txt" />
+        <option value="$PROJECT_DIR$/src/algs4/sorting/exercise/_2_1/_2_1_2.txt" />
+        <option value="$PROJECT_DIR$/src/algs4/sorting/exercise/_2_1/_2_1_3.txt" />
+        <option value="$PROJECT_DIR$/src/algs4/sorting/exercise/_2_1/_2_1_4.txt" />
+        <option value="$PROJECT_DIR$/src/algs4/sorting/exercise/_2_1/_2_1_5.txt" />
+        <option value="$PROJECT_DIR$/src/algs4/sorting/SortCompare.java" />
+        <option value="$PROJECT_DIR$/src/algs4/sorting/exercise/_2_1/WhichFasterReverseOrder.java" />
+        <option value="$PROJECT_DIR$/src/algs4/sorting/exercise/_2_1/WhichFasterIdenticalKey.java" />
       </list>
     </option>
   </component>
@@ -408,9 +248,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -477,8 +315,36 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaEkkelTIJAndAlgorithms4" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaEkkelTIJAndAlgorithms4" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="algs4" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sorting" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="_2_1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -488,67 +354,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="js.eslint.eslintPackage" value="" />
   </component>
-  <component name="RunManager" selected="Application.Example">
-    <configuration default="false" name="BetterRead" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="ekkel.strings.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="ekkel.strings.BetterRead" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="JavaEkkelTIJAndAlgorithms4" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="ScannerDelimiter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="ekkel.strings.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="ekkel.strings.ScannerDelimiter" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="JavaEkkelTIJAndAlgorithms4" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="ThreatAnalyzer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="ekkel.strings.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="ekkel.strings.ThreatAnalyzer" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="JavaEkkelTIJAndAlgorithms4" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.WhichFasterReverseOrder">
     <configuration default="false" name="ReplacingStringTokenizer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -577,9 +383,69 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="algs4.sorting.Example" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="VM_PARAMETERS" value="Insertion Selection 1000 100" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="JavaEkkelTIJAndAlgorithms4" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="SortCompare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="algs4.sorting.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="algs4.sorting.SortCompare" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="Shell Selection 10000 100" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="JavaEkkelTIJAndAlgorithms4" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="WhichFasterIdenticalKey" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="algs4.sorting.exercise._2_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="algs4.sorting.exercise._2_1.WhichFasterIdenticalKey" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="Insertion Selection 2000 100" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="JavaEkkelTIJAndAlgorithms4" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="WhichFasterReverseOrder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="algs4.sorting.exercise._2_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="algs4.sorting.exercise._2_1.WhichFasterReverseOrder" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="Shell Insertion 2000 100" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
@@ -826,6 +692,7 @@
       <setting name="passParentEnv" value="true" />
       <setting name="launchBrowser" value="true" />
       <setting name="launchBrowserUrl" value="" />
+      <setting name="depsClasspath" value="false" />
       <method />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
@@ -947,6 +814,12 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
@@ -963,19 +836,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.BetterRead" />
-      <item index="1" class="java.lang.String" itemvalue="Application.ScannerDelimiter" />
-      <item index="2" class="java.lang.String" itemvalue="Application.ThreatAnalyzer" />
-      <item index="3" class="java.lang.String" itemvalue="Application.ReplacingStringTokenizer" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Example" />
+      <item index="0" class="java.lang.String" itemvalue="Application.ReplacingStringTokenizer" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Example" />
+      <item index="2" class="java.lang.String" itemvalue="Application.SortCompare" />
+      <item index="3" class="java.lang.String" itemvalue="Application.WhichFasterIdenticalKey" />
+      <item index="4" class="java.lang.String" itemvalue="Application.WhichFasterReverseOrder" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Example" />
-        <item index="1" class="java.lang.String" itemvalue="Application.ReplacingStringTokenizer" />
-        <item index="2" class="java.lang.String" itemvalue="Application.ThreatAnalyzer" />
-        <item index="3" class="java.lang.String" itemvalue="Application.ScannerDelimiter" />
-        <item index="4" class="java.lang.String" itemvalue="Application.BetterRead" />
+        <item index="0" class="java.lang.String" itemvalue="Application.WhichFasterReverseOrder" />
+        <item index="1" class="java.lang.String" itemvalue="Application.WhichFasterIdenticalKey" />
+        <item index="2" class="java.lang.String" itemvalue="Application.SortCompare" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Example" />
+        <item index="4" class="java.lang.String" itemvalue="Application.ReplacingStringTokenizer" />
       </list>
     </recent_temporary>
   </component>
@@ -992,45 +865,46 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1485581035537</updated>
-      <workItem from="1485800564727" duration="2022000" />
+      <workItem from="1485800564727" duration="2087000" />
+      <workItem from="1485867304985" duration="6756000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2022000" />
+    <option name="totallyTimeSpent" value="8843000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="24" width="1301" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32884902" sideWeight="0.48193696" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30941704" sideWeight="0.49423522" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30941704" sideWeight="0.5057648" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30941704" sideWeight="0.5726364" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30941704" sideWeight="0.42736357" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22444274" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -1057,79 +931,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/ekkel/strings/SimpleRead.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="33" column="1" lean-forward="false" selection-start-line="33" selection-start-column="1" selection-end-line="33" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ekkel/strings/BetterRead.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="1" lean-forward="false" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ekkel/strings/ScannerDelimiter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="36" lean-forward="false" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ekkel/strings/ThreatAnalyzer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="23" column="39" lean-forward="false" selection-start-line="23" selection-start-column="39" selection-end-line="23" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ekkel/strings/ReplacingStringTokenizer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ekkel/strings/Concatenation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ekkel/strings/Hex.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="26" column="26" lean-forward="false" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ekkel/strings/exercises/Exercise6.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#263#264#0" expanded="false" />
-            <element signature="e#338#339#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/jdk/1.8.0_45/src.zip!/java/io/File.java" />
-    <entry file="file://$PROJECT_DIR$/src/net/mindview/util/BinaryFile.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="13" column="61" lean-forward="false" selection-start-line="13" selection-start-column="61" selection-end-line="13" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ekkel/strings/Concatenation.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -1294,9 +1095,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="13" column="15" lean-forward="false" selection-start-line="13" selection-start-column="15" selection-end-line="13" selection-end-column="15" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1306,9 +1104,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="693">
           <caret line="38" column="9" lean-forward="false" selection-start-line="38" selection-start-column="9" selection-end-line="38" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1316,9 +1111,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="294">
           <caret line="15" column="25" lean-forward="false" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1326,7 +1118,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
           <caret line="20" column="33" lean-forward="false" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1366,15 +1157,19 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="462">
           <caret line="23" column="39" lean-forward="false" selection-start-line="23" selection-start-column="39" selection-end-line="23" selection-end-column="39" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ekkel/strings/ReplacingStringTokenizer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
+        <state relative-caret-position="420">
           <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1399,36 +1194,119 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/algs4/sorting/Date.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="28" column="5" lean-forward="true" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
-          <folding>
-            <element signature="e#780#781#0" expanded="true" />
-            <element signature="e#825#826#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="546">
+          <caret line="28" column="5" lean-forward="false" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/algs4/sorting/Example.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="20" column="14" lean-forward="true" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#214#215#0" expanded="true" />
-            <element signature="e#244#245#0" expanded="true" />
-            <element signature="e#305#306#0" expanded="true" />
-            <element signature="e#346#347#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="273">
+          <caret line="20" column="14" lean-forward="false" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/algs4/sorting/Selection.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="318">
-          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+        <state relative-caret-position="360">
+          <caret line="19" column="5" lean-forward="false" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
           <folding>
             <element signature="e#467#468#0" expanded="true" />
             <element signature="e#508#509#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algs4/sorting/Shell.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="129">
+          <caret line="12" column="11" lean-forward="true" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+          <folding>
+            <element signature="e#574#575#0" expanded="true" />
+            <element signature="e#617#618#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algs4/sorting/exercise/_2_1/_2_1_4.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="16" lean-forward="true" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algs4/sorting/exercise/_2_1/_2_1_1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="23" lean-forward="true" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algs4/sorting/Insertion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="129">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding>
+            <element signature="e#388#389#0" expanded="true" />
+            <element signature="e#429#430#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algs4/sorting/exercise/_2_1/_2_1_2.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algs4/sorting/exercise/_2_1/_2_1_3.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algs4/sorting/exercise/_2_1/_2_1_5.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algs4/sorting/SortCompare.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="45" column="38" lean-forward="false" selection-start-line="45" selection-start-column="38" selection-end-line="45" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algs4/sorting/exercise/_2_1/WhichFasterReverseOrder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="27" column="34" lean-forward="false" selection-start-line="27" selection-start-column="34" selection-end-line="27" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algs4/sorting/exercise/_2_1/WhichFasterIdenticalKey.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
