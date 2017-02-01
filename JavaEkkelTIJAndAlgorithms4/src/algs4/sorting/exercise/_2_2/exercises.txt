@@ -1,0 +1,96 @@
+2.2.1 Give a trace, in the style of the trace given at the beginning of this section, show-
+ing how the keys A E Q S U Y E I N O S T are merged with the abstract in-place
+merge() method.
+
+A E Q S U Y [E] I N O S T  - N12
+mid = 6;
+sort (a,0, 6)
+mid = 3
+sort (a, 0,3)
+mid  =1 ;
+ sort (a,0,1)
+  mid = 0
+  sort (a,0,0) return
+  sort (a,1,1) return
+  merge(a,0,1,1)
+    i=0, j=2
+    0>1 -
+    2>1 -> a[0]=aux[0] => A i++
+    k=1; k<=hi(1)
+      i>mid -
+      j>hi, 2>1 => a[1]=aux[1] E i++,
+    break;
+ sort(a,2, 3)
+ .. get in result Q S
+ merge(A,0,3,6)
+   in result we wiil took
+   A E E Q S U Y
+   then in second half
+   and merge all array
+
+
+   2.2.2 Give traces, in the style of the trace given with Algorithm 2.4, showing how the
+   keys E A S Y Q U E S T I O N are sorted with top-down mergesort.
+
+   2.2.3 Answer Exercise 2.2.2 for bottom-up mergesort.
+
+   2.2.4 Does the abstract in-place merge produce proper output if and only if the two
+   input subarrays are in sorted order? Prove your answer, or provide a counterexample.
+    ВОпрос звучит так: мерже вернет корректный выход только при отстортированных входных массивах.
+  в случае если 1 часть будет отсортирована, то мы будем инкрементировать  I ,
+  и при подходе ко второй части условие I>mid  будет всегда срабатывать и мы просто присвоим неотсортированные значения второй половины.
+
+  Если же у нас будет 1 часть не сортированная, а вторая сортирована
+  например N A A K
+   то мы просто заменим лево сторонии значения наименьшим из справой если оно меньше.
+   здесь N  заменяем на A.
+   A N A K
+   далее в итоге получаем массив char: AN K K и исключение array of bound exception, т.к. j превысил h,
+
+   На основе данных опытов можно утверждать что данные для сортировки слияния должны быть отсортированы.
+    Порядок элементов субмассивов сохраняют порядок в слитом массиве.
+
+   2.2.5 Give the sequence of subarray sizes in the merges performed by both the top-
+   down and the bottom-up mergesort algorithms, for N = 39.
+For top down:
+20 19
+10 10 10 9
+5 5  5 5  5 5  5 4
+3 2  3 2  3 2  3 2  3 2  3 2  3 2  2 2
+2 2 2 2 2 2 2
+
+  39
+  20 + 19
+  3*10 + 9
+  7*5 + 4
+  7*3 + 9*2
+  7*2
+
+  for bottom up:
+  19*2 + 1
+  9*4 + 3
+  4*8 + 7
+  2*16+7
+  32 + 7
+  39
+   2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 1
+    4 4 4 4 4 4 4 4 4 3
+    8 8 8 8 7
+    16 16 7
+    32 7
+    39
+
+2.2.7 Show that the number of compares used by mergesort is monotonically increas-
+ing (C(N+1) > C(N) for all N > 0).
+Если N нечетное то последняя пара имеет 2 значения, вместо 1.
+Если N четное, то N массив будет иметь на пару больше.
+
+2.2.8 Suppose that Algorithm 2.4 is modified to skip the call on merge() whenever
+a[mid] <= a[mid+1] . Prove that the number of compares used to mergesort a sorted
+array is linear.
+
+
+
+
+
+

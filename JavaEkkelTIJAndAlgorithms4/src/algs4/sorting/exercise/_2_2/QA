@@ -1,0 +1,13 @@
+Is mergesort faster than shellsort?
+
+FOr 10000 random DOubles
+ Merge is  0.8 times faster than Shell
+
+FOr 10000 random DOubles
+ MergeBU is  1.0 times faster than Shell
+
+FOr 100000 random DOubles
+ MergeBU is  0.8 times faster than Shell
+
+ FOr 100000 random DOubles
+  Shell is  1.3 times faster than Merge
