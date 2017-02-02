@@ -1,0 +1,33 @@
+2.3.1 Show, in the style of the trace given with partition() , how that method pati-
+tions the array E A S Y Q U E S T I O N .
+partition:
+E A S Y Q U E S T I O N
+v=E, i=0, j=hi-1
+E A S i=2
+E A S Y Q U E S T I O N
+E A [E] Y Q U S S T I O N
+
+j=2;
+
+
+2.3.2 Show, in the style of the quicksort trace given in this section, how quicksort sorts
+the array E A S Y Q U E S T I O N (for the purposes of this exercise, ignore the
+initial shuffle).
+
+2.3.3 What is the maximum number of times during the execution of Quick.sort()
+that the largest item can be exchanged, for an array of length N ?
+
+2.3.4 Suppose that the initial random shuffle is omitted. Give six arrays of ten elements
+for which Quick.sort() uses the worst-case number of compares.
+2.3.5 Give a code fragment that sorts an array that is known to consist of items having
+just two distinct keys.
+2.3.6 Write a program to compute the exact value of C N , and compare the exact value
+with the approximation 2N ln N, for N = 100, 1,000, and 10,000.
+2.3.7 Find the expected number of subarrays of size 0, 1, and 2 when quicksort is used
+to sort an array of N items with distinct keys. If you are mathematically inclined, do the
+math; if not, run some experiments to develop hypotheses.
+2.3.8 About how many compares will Quick.sort() make when sorting an array of
+N items that are all equal?
+2.3.9 Explain what happens when Quick.sort() is run on an array having items with
+just two distinct keys, and then explain what happens when it is run on an array having
+just three distinct keys.
