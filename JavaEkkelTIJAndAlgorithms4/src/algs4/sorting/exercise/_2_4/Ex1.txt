@@ -1,0 +1,71 @@
+2.4.1 Suppose that the sequence P R I O * R * * I * T * Y * * * Q U E * * *
+U * E (where a letter means insert and an asterisk means remove the maximum) is ap-
+plied to an initially empty priority queue. Give the sequence of letters returned by the
+remove the maximum operation
+
+we create MaxPQ object with defautl constructor
+so pq.legnth = 2, n =0
+insert P
+pq[1]=P n=1
+insert R
+here we increase the size of array to 4
+pq[2]=R
+swim(2)
+  P < R
+  so we have: R P
+insert I
+pq[3]=I
+n=3;
+swim(3) -> nothing to do
+we have: R P I
+insert O
+resize
+pq[4]=O
+n=4;
+swim(4)
+P<O? false
+we have: R P I O
+
+delMax
+exch(1,4) O P I R
+n=3
+sink(1)
+P<I false
+K>J false
+cahnge O and P
+P O I R
+k=2;
+break
+R= null
+P O I
+
+insert R
+R P O I
+n=4;
+delMax
+P O I
+delMax
+O I n=2
+insert I
+pq[3]=I
+3>1 O < I false
+O I I
+
+delMax
+ I I
+insert T
+ T I I
+ delMax
+ I I
+insert Y
+Y I I
+3xdelMax
+[]
+insert Q
+insert U
+U Q
+insert E
+U Q E
+3xdelMax
+
+and in result empty array[];

@@ -1,0 +1,2 @@
+Criticize the following idea: to implement find the maximum in constant time, why not keep track of the maximum value inserted so far, then return that value for find the maximum?
+Потребуется после удаления макс знаечния обновлять его.
