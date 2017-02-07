@@ -1,4 +1,4 @@
-package ekkel.generics;
+package ekkel.generics.watercolors;
 
 /**
  * Created by nugusbayevkk on 2/7/17.
