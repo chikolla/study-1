@@ -5,15 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0fc45853-eb5e-4232-bde7-c77226752b12" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/algs4/search/BinarySearchST.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/algs4/search/ST.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/algs4/search/SequentialSearch.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/algs4/search/client/FrequencyCounter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ekkel/containers/CollectionDataTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ekkel/containers/FillingLists.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/net/mindview/util/CollectionData.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/yandexschool/concurrency/lecture1/helloworld/Person.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/algs4/search/ArrayST.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/algs4/search/exercises/exercise311.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/yandexschool/concurrency/lecture1/bank/v1_seq/Account.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/yandexschool/concurrency/lecture1/bank/v1_seq/Client.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/yandexschool/concurrency/lecture1/bank/v2_concurr/Client.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/yandexschool/concurrency/lecture1/helloworld/MyThread.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/yandexschool/concurrency/lecture1/helloworld/RunnablePerson.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/algs4/search/BinarySearchST.class" afterPath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/algs4/search/BinarySearchST.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/algs4/search/SequentialSearch$Node.class" afterPath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/algs4/search/SequentialSearch$Node.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/algs4/search/SequentialSearch.class" afterPath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/algs4/search/SequentialSearch.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/yandexschool/concurrency/lecture1/helloworld/Person.class" afterPath="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/yandexschool/concurrency/lecture1/helloworld/Person.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/algs4/search/BinarySearchST.java" afterPath="$PROJECT_DIR$/src/algs4/search/BinarySearchST.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/algs4/search/SequentialSearch.java" afterPath="$PROJECT_DIR$/src/algs4/search/SequentialSearch.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/yandexschool/concurrency/lecture1/helloworld/Person.java" afterPath="$PROJECT_DIR$/src/yandexschool/concurrency/lecture1/helloworld/Person.java" />
     </list>
     <ignored path="JavaEkkelTIJAndAlgorithms4.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -34,98 +40,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="CopyingArrays.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ekkel/arrays/CopyingArrays.java">
+      <file leaf-file-name="exercise311.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/algs4/search/exercises/exercise311.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="462">
-              <caret line="24" column="32" lean-forward="false" selection-start-line="24" selection-start-column="32" selection-end-line="24" selection-end-column="32" />
+            <state relative-caret-position="113">
+              <caret line="17" column="20" lean-forward="true" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <marker date="1486491173359" expanded="true" signature="671:1116" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CompType.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ekkel/arrays/CompType.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="735">
-              <caret line="45" column="9" lean-forward="false" selection-start-line="39" selection-start-column="7" selection-end-line="45" selection-end-column="9" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Reverse.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ekkel/arrays/Reverse.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="19" column="11" lean-forward="false" selection-start-line="13" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FillingLists.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ekkel/containers/FillingLists.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="441">
-              <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#279#280#0" expanded="true" />
-                <element signature="e#328#329#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CollectionDataTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ekkel/containers/CollectionDataTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="22" column="4" lean-forward="false" selection-start-line="22" selection-start-column="4" selection-end-line="22" selection-end-column="4" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ST.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/algs4/search/ST.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="232">
-              <caret line="101" column="44" lean-forward="false" selection-start-line="101" selection-start-column="44" selection-end-line="101" selection-end-column="44" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1070#1071#0" expanded="true" />
-                <element signature="e#1115#1116#0" expanded="true" />
-                <element signature="e#2255#2256#0" expanded="true" />
-                <element signature="e#2287#2288#0" expanded="true" />
-                <element signature="e#2317#2318#0" expanded="true" />
-                <element signature="e#2351#2352#0" expanded="true" />
-                <element signature="e#2384#2385#0" expanded="true" />
-                <element signature="e#2418#2419#0" expanded="true" />
-                <element signature="e#2471#2472#0" expanded="true" />
-                <element signature="e#2516#2517#0" expanded="true" />
-                <element signature="e#3305#3322#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FrequencyCounter.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/algs4/search/client/FrequencyCounter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="24" column="14" lean-forward="false" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#338#355#0" expanded="true" />
+                <element signature="e#354#370#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -134,40 +56,53 @@
       <file leaf-file-name="SequentialSearch.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/algs4/search/SequentialSearch.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="318">
-              <caret line="31" column="4" lean-forward="false" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="4" />
-              <folding />
+            <state relative-caret-position="-72">
+              <caret line="76" column="17" lean-forward="true" selection-start-line="76" selection-start-column="17" selection-end-line="76" selection-end-column="17" />
+              <folding>
+                <element signature="e#845#846#0" expanded="true" />
+                <element signature="e#869#870#0" expanded="true" />
+                <element signature="e#899#900#0" expanded="true" />
+                <element signature="e#933#934#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Person.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/yandexschool/concurrency/lecture1/helloworld/Person.java">
+      <file leaf-file-name="ArrayST.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/algs4/search/ArrayST.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BinarySearchST.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/algs4/search/BinarySearchST.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="353">
-              <caret line="85" column="17" lean-forward="false" selection-start-line="85" selection-start-column="17" selection-end-line="85" selection-end-column="17" />
+            <state relative-caret-position="231">
+              <caret line="11" column="57" lean-forward="false" selection-start-line="11" selection-start-column="57" selection-end-line="11" selection-end-column="57" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#443#444#0" expanded="true" />
-                <element signature="e#467#468#0" expanded="true" />
-                <element signature="e#689#690#0" expanded="true" />
-                <element signature="e#718#719#0" expanded="true" />
-                <element signature="e#1771#1772#0" expanded="true" />
-                <element signature="e#1801#1802#0" expanded="true" />
-                <element signature="e#1823#1824#0" expanded="true" />
-                <element signature="e#1855#1856#0" expanded="true" />
-                <element signature="e#1885#1886#0" expanded="true" />
-                <element signature="e#1915#1916#0" expanded="true" />
+                <element signature="e#508#509#0" expanded="true" />
+                <element signature="e#532#533#0" expanded="true" />
+                <element signature="e#562#563#0" expanded="true" />
+                <element signature="e#589#590#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ST.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/algs4/search/ST.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-478">
+              <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BinarySearchST.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/algs4/search/BinarySearchST.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="138">
+              <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -203,14 +138,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/ekkel/generics/Erased.java" />
-        <option value="$PROJECT_DIR$/src/ekkel/generics/ClassTypeCapture.java" />
-        <option value="$PROJECT_DIR$/src/ekkel/generics/InstantiateGenericType.java" />
-        <option value="$PROJECT_DIR$/src/ekkel/generics/FactoryConstraint.java" />
-        <option value="$PROJECT_DIR$/src/ekkel/generics/CreatorGeneric.java" />
-        <option value="$PROJECT_DIR$/src/ekkel/generics/GenericArray2.java" />
-        <option value="$PROJECT_DIR$/src/ekkel/generics/GenericArray.java" />
-        <option value="$PROJECT_DIR$/src/ekkel/generics/GenericArrayWithTypeToken.java" />
         <option value="$PROJECT_DIR$/src/ekkel/generics/BasicBounds.java" />
         <option value="$PROJECT_DIR$/src/ekkel/generics/InheritBounds.java" />
         <option value="$PROJECT_DIR$/src/ekkel/generics/EpicBattle.java" />
@@ -251,9 +178,17 @@
         <option value="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/algs4/search/client/medTale.txt" />
         <option value="$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/algs4/search/client/tale.txt" />
         <option value="$PROJECT_DIR$/src/algs4/search/client/FrequencyCounter.java" />
-        <option value="$PROJECT_DIR$/src/algs4/search/SequentialSearch.java" />
-        <option value="$PROJECT_DIR$/src/yandexschool/concurrency/lecture1/helloworld/Person.java" />
+        <option value="$PROJECT_DIR$/src/yandexschool/concurrency/lecture1/helloworld/MyThread.java" />
         <option value="$PROJECT_DIR$/src/algs4/search/BinarySearchST.java" />
+        <option value="$PROJECT_DIR$/src/yandexschool/concurrency/lecture1/helloworld/Person.java" />
+        <option value="$PROJECT_DIR$/src/yandexschool/concurrency/lecture1/helloworld/RunnablePerson.java" />
+        <option value="$PROJECT_DIR$/src/yandexschool/concurrency/lecture1/bank/v1_seq/Account.java" />
+        <option value="$PROJECT_DIR$/src/yandexschool/concurrency/lecture1/bank/v1_seq/Bank.java" />
+        <option value="$PROJECT_DIR$/src/yandexschool/concurrency/lecture1/bank/v1_seq/Client.java" />
+        <option value="$PROJECT_DIR$/src/yandexschool/concurrency/lecture1/bank/v2_concurr/Client.java" />
+        <option value="$PROJECT_DIR$/src/algs4/search/exercises/exercise311.java" />
+        <option value="$PROJECT_DIR$/src/algs4/search/SequentialSearch.java" />
+        <option value="$PROJECT_DIR$/src/algs4/search/ArrayST.java" />
       </list>
     </option>
   </component>
@@ -287,8 +222,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -325,7 +261,63 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="lecture1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="helloworld" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaEkkelTIJAndAlgorithms4" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaEkkelTIJAndAlgorithms4" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lecture1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bank" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="v2_concurr" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaEkkelTIJAndAlgorithms4" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaEkkelTIJAndAlgorithms4" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lecture1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bank" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="v1_seq" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -401,13 +393,16 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="basic" />
+              <option name="myItemId" value="search" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="exercises" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -418,15 +413,15 @@
     <property name="js.buildTools.grunt.grunt-cli.package" value="" />
     <property name="js.buildTools.gulp.gulp_package_dir" value="" />
   </component>
-  <component name="RunManager" selected="Application.BinarySearchST">
-    <configuration default="false" name="CopyingArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.ArrayST">
+    <configuration default="false" name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="ekkel.arrays.*" />
+          <option name="PATTERN" value="yandexschool.concurrency.lecture1.bank.v1_seq.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="ekkel.arrays.CopyingArrays" />
+      <option name="MAIN_CLASS_NAME" value="yandexschool.concurrency.lecture1.bank.v1_seq.Client" />
       <option name="VM_PARAMETERS" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
@@ -439,14 +434,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="FillingLists" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="ekkel.containers.*" />
+          <option name="PATTERN" value="yandexschool.concurrency.lecture1.bank.v2_concurr.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="ekkel.containers.FillingLists" />
+      <option name="MAIN_CLASS_NAME" value="yandexschool.concurrency.lecture1.bank.v2_concurr.Client" />
       <option name="VM_PARAMETERS" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
@@ -459,14 +454,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="CollectionDataTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="exercise311" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="ekkel.containers.*" />
+          <option name="PATTERN" value="algs4.search.exercises.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="ekkel.containers.CollectionDataTest" />
+      <option name="MAIN_CLASS_NAME" value="algs4.search.exercises.exercise311" />
       <option name="VM_PARAMETERS" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
@@ -479,34 +474,34 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="FrequencyCounter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="algs4.search.client.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="algs4.search.client.FrequencyCounter" />
-      <option name="VM_PARAMETERS" value="" />
-      <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="JavaEkkelTIJAndAlgorithms4" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="BinarySearchST" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="SequentialSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="algs4.search.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="algs4.search.BinarySearchST" />
+      <option name="MAIN_CLASS_NAME" value="algs4.search.SequentialSearch" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="JavaEkkelTIJAndAlgorithms4" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="ArrayST" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="algs4.search.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="algs4.search.ArrayST" />
       <option name="VM_PARAMETERS" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
@@ -994,19 +989,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.CopyingArrays" />
-      <item index="1" class="java.lang.String" itemvalue="Application.FillingLists" />
-      <item index="2" class="java.lang.String" itemvalue="Application.CollectionDataTest" />
-      <item index="3" class="java.lang.String" itemvalue="Application.FrequencyCounter" />
-      <item index="4" class="java.lang.String" itemvalue="Application.BinarySearchST" />
+      <item index="0" class="java.lang.String" itemvalue="Application.Client" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Client (1)" />
+      <item index="2" class="java.lang.String" itemvalue="Application.exercise311" />
+      <item index="3" class="java.lang.String" itemvalue="Application.SequentialSearch" />
+      <item index="4" class="java.lang.String" itemvalue="Application.ArrayST" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.BinarySearchST" />
-        <item index="1" class="java.lang.String" itemvalue="Application.FrequencyCounter" />
-        <item index="2" class="java.lang.String" itemvalue="Application.CollectionDataTest" />
-        <item index="3" class="java.lang.String" itemvalue="Application.FillingLists" />
-        <item index="4" class="java.lang.String" itemvalue="Application.CopyingArrays" />
+        <item index="0" class="java.lang.String" itemvalue="Application.ArrayST" />
+        <item index="1" class="java.lang.String" itemvalue="Application.exercise311" />
+        <item index="2" class="java.lang.String" itemvalue="Application.SequentialSearch" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Client (1)" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Client" />
       </list>
     </recent_temporary>
   </component>
@@ -1038,33 +1033,35 @@
       <workItem from="1486474938584" duration="8985000" />
       <workItem from="1486486491971" duration="5131000" />
       <workItem from="1486562196600" duration="3352000" />
-      <workItem from="1486645976424" duration="8087000" />
+      <workItem from="1486645976424" duration="8176000" />
+      <workItem from="1486658572883" duration="1334000" />
+      <workItem from="1486733983656" duration="7885000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="124026000" />
+    <option name="totallyTimeSpent" value="133334000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="24" width="1301" height="744" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32884902" sideWeight="0.4573405" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32884902" sideWeight="0.45426595" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31988043" sideWeight="0.49961567" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32436472" sideWeight="0.5019216" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31988043" sideWeight="0.50038433" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33333334" sideWeight="0.4980784" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.104534976" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20676403" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1097,16 +1094,16 @@
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32884902" sideWeight="0.4788624" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32884902" sideWeight="0.45426595" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3039867" sideWeight="0.5426136" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3039867" sideWeight="0.45738637" order="10" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2755682" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33333334" sideWeight="0.5019216" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33333334" sideWeight="0.4980784" order="10" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20676403" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32884902" sideWeight="0.49730977" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
     </layout-to-restore>
@@ -1134,62 +1131,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/ekkel/generics/GenericArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="22" column="5" lean-forward="false" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ekkel/generics/GenericArray2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ekkel/generics/GenericArrayWithTypeToken.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="22" column="29" lean-forward="true" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ekkel/generics/BasicBounds.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="57" column="18" lean-forward="false" selection-start-line="57" selection-start-column="18" selection-end-line="57" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ekkel/generics/InheritBounds.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="33" column="42" lean-forward="false" selection-start-line="33" selection-start-column="42" selection-end-line="33" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ekkel/generics/EpicBattle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="64" column="19" lean-forward="false" selection-start-line="64" selection-start-column="19" selection-end-line="64" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ekkel/generics/CovariantArrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ekkel/generics/NonCovariantGenerics.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="10" column="1" lean-forward="false" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ekkel/generics/GenericsAndCovariance.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
@@ -1335,7 +1276,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
           <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1343,11 +1283,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="11" column="50" lean-forward="false" selection-start-line="11" selection-start-column="50" selection-end-line="11" selection-end-column="50" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#769#770#0" expanded="true" />
-            <element signature="e#814#815#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1355,7 +1290,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="504">
           <caret line="28" column="39" lean-forward="false" selection-start-line="28" selection-start-column="39" selection-end-line="28" selection-end-column="39" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1363,10 +1297,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
           <caret line="11" column="1" lean-forward="false" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
-          <folding>
-            <element signature="e#191#192#0" expanded="true" />
-            <element signature="e#249#250#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1375,31 +1305,13 @@
         <state relative-caret-position="462">
           <caret line="24" column="32" lean-forward="false" selection-start-line="24" selection-start-column="32" selection-end-line="24" selection-end-column="32" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
             <marker date="1486491173359" expanded="true" signature="671:1116" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ekkel/arrays/CompType.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="735">
-          <caret line="45" column="9" lean-forward="false" selection-start-line="39" selection-start-column="7" selection-end-line="45" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/net/mindview/util/Generated.java" />
-    <entry file="file://$PROJECT_DIR$/src/ekkel/arrays/Reverse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="19" column="11" lean-forward="false" selection-start-line="13" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///usr/lib/jvm/java-1.8.0-openjdk-amd64/jre/lib/rt.jar!/java/util/Collections.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="124">
@@ -1411,7 +1323,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="5" column="17" lean-forward="false" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1419,66 +1330,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="192">
           <caret line="13" column="40" lean-forward="false" selection-start-line="13" selection-start-column="40" selection-end-line="13" selection-end-column="40" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ekkel/containers/FillingLists.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="441">
-          <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#279#280#0" expanded="true" />
-            <element signature="e#328#329#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ekkel/containers/CollectionDataTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="22" column="4" lean-forward="false" selection-start-line="22" selection-start-column="4" selection-end-line="22" selection-end-column="4" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algs4/search/client.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="5" column="19" lean-forward="false" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algs4/search/ST.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="101" column="44" lean-forward="false" selection-start-line="101" selection-start-column="44" selection-end-line="101" selection-end-column="44" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1070#1071#0" expanded="true" />
-            <element signature="e#1115#1116#0" expanded="true" />
-            <element signature="e#2255#2256#0" expanded="true" />
-            <element signature="e#2287#2288#0" expanded="true" />
-            <element signature="e#2317#2318#0" expanded="true" />
-            <element signature="e#2351#2352#0" expanded="true" />
-            <element signature="e#2384#2385#0" expanded="true" />
-            <element signature="e#2418#2419#0" expanded="true" />
-            <element signature="e#2471#2472#0" expanded="true" />
-            <element signature="e#2516#2517#0" expanded="true" />
-            <element signature="e#3305#3322#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algs4/search/client.java" />
     <entry file="file://$PROJECT_DIR$/out/production/JavaEkkelTIJAndAlgorithms4/algs4/search/client/tinyTale.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="84">
           <caret line="4" column="17" lean-forward="false" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1486,7 +1345,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
           <caret line="98" column="60" lean-forward="false" selection-start-line="98" selection-start-column="60" selection-end-line="98" selection-end-column="60" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1494,53 +1352,197 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
           <caret line="16038" column="63" lean-forward="false" selection-start-line="16038" selection-start-column="63" selection-end-line="16038" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ekkel/containers/CollectionDataTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="22" column="4" lean-forward="false" selection-start-line="22" selection-start-column="4" selection-end-line="22" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ekkel/containers/FillingLists.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="347">
+          <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ekkel/arrays/Reverse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="19" column="11" lean-forward="false" selection-start-line="13" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ekkel/arrays/CompType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="45" column="9" lean-forward="false" selection-start-line="39" selection-start-column="7" selection-end-line="45" selection-end-column="9" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/algs4/search/client/FrequencyCounter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
+        <state relative-caret-position="347">
           <caret line="24" column="14" lean-forward="false" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
           <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/yandexschool/concurrency/lecture1/bank/v2_concurr/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="54" column="20" lean-forward="true" selection-start-line="54" selection-start-column="20" selection-end-line="54" selection-end-column="20" />
+          <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#338#355#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/yandexschool/concurrency/lecture1/bank/v1_seq/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="41" column="8" lean-forward="false" selection-start-line="41" selection-start-column="8" selection-end-line="45" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/yandexschool/concurrency/lecture1/bank/v1_seq/Bank.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="8" column="19" lean-forward="false" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#232#233#0" expanded="false" />
+            <element signature="e#289#290#0" expanded="false" />
+            <element signature="e#334#335#0" expanded="false" />
+            <element signature="e#388#389#0" expanded="false" />
+            <element signature="e#430#431#0" expanded="false" />
+            <element signature="e#469#470#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/yandexschool/concurrency/lecture1/helloworld/RunnablePerson.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="7" column="18" lean-forward="true" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+          <folding>
+            <element signature="e#233#234#0" expanded="false" />
+            <element signature="e#260#261#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/yandexschool/concurrency/lecture1/helloworld/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="20" lean-forward="false" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+          <folding>
+            <element signature="e#178#179#0" expanded="false" />
+            <element signature="e#210#211#0" expanded="false" />
+            <element signature="e#239#240#0" expanded="false" />
+            <element signature="e#266#267#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/yandexschool/concurrency/lecture1/helloworld/MyThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="16" lean-forward="false" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+          <folding>
+            <element signature="e#161#162#0" expanded="false" />
+            <element signature="e#210#211#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/yandexschool/concurrency/lecture1/bank/v1_seq/Account.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="101">
+          <caret line="9" column="27" lean-forward="false" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+          <folding>
+            <element signature="e#295#296#0" expanded="false" />
+            <element signature="e#325#326#0" expanded="false" />
+            <element signature="e#354#355#0" expanded="false" />
+            <element signature="e#389#390#0" expanded="false" />
+            <element signature="e#422#423#0" expanded="false" />
+            <element signature="e#454#455#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algs4/search/exercises/exercise311.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="17" column="20" lean-forward="true" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#354#370#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algs4/search/BinarySearchST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/algs4/search/SequentialSearch.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="318">
-          <caret line="31" column="4" lean-forward="false" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="4" />
-          <folding />
+        <state relative-caret-position="-72">
+          <caret line="76" column="17" lean-forward="true" selection-start-line="76" selection-start-column="17" selection-end-line="76" selection-end-column="17" />
+          <folding>
+            <element signature="e#845#846#0" expanded="true" />
+            <element signature="e#869#870#0" expanded="true" />
+            <element signature="e#899#900#0" expanded="true" />
+            <element signature="e#933#934#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/yandexschool/concurrency/lecture1/helloworld/Person.java">
+    <entry file="file://$PROJECT_DIR$/src/algs4/search/ST.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algs4/search/BinarySearchST.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="353">
-          <caret line="85" column="17" lean-forward="false" selection-start-line="85" selection-start-column="17" selection-end-line="85" selection-end-column="17" />
+        <state relative-caret-position="-478">
+          <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#443#444#0" expanded="true" />
-            <element signature="e#467#468#0" expanded="true" />
-            <element signature="e#689#690#0" expanded="true" />
-            <element signature="e#718#719#0" expanded="true" />
-            <element signature="e#1771#1772#0" expanded="true" />
-            <element signature="e#1801#1802#0" expanded="true" />
-            <element signature="e#1823#1824#0" expanded="true" />
-            <element signature="e#1855#1856#0" expanded="true" />
-            <element signature="e#1885#1886#0" expanded="true" />
-            <element signature="e#1915#1916#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algs4/search/ArrayST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="57" lean-forward="false" selection-start-line="11" selection-start-column="57" selection-end-line="11" selection-end-column="57" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#508#509#0" expanded="true" />
+            <element signature="e#532#533#0" expanded="true" />
+            <element signature="e#562#563#0" expanded="true" />
+            <element signature="e#589#590#0" expanded="true" />
           </folding>
         </state>
       </provider>

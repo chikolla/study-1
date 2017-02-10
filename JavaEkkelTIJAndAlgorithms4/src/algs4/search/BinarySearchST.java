@@ -74,14 +74,14 @@ public class BinarySearchST<Key extends Comparable<Key>,Value> {
         int i = rank(key);
         return keys[i];
     }
-    public Key floor(){
-
-    }
+//    public Key floor(){
+//
+//    }
     public Iterable<Key> keys(Key lo, Key hi){
         Queue<Key> q=new Queue<Key>();
         for (int i=rank(lo); i< rank(hi);i++)
             q.enqueue(keys[i]);
-        if(contains(hi))
+//        if(contains(hi))
             q.enqueue(keys[rank(hi)]);
         return q;
     }
