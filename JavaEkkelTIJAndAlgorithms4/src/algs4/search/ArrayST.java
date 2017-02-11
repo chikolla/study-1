@@ -7,6 +7,15 @@ import java.util.Iterator;
 import java.util.NoSuchElementException;
 
 /**
+ * The class represents an (unordered) symbol table of generic key-value pairs
+ * This implementation uses two arrays of some length and sequential search
+ *
+ * The size, isEmpty operatins take constant time
+ * The contains, get take linear time in the worst case
+ * The put, delete operations take linear time
+ *
+ * @author nugusbayevkk
+ *
  * Created by nugusbayevkk on 2/10/17.
  */
 public class ArrayST<Key extends Comparable<Key>, Value> {

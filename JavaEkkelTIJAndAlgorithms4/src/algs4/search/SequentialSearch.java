@@ -12,6 +12,8 @@ import algs4.basic.datastructures.Queue;
  *
  * Construction take constant time
  *
+ * @author copied
+ *
  * Created by nugusbayevkk on 2/9/17.
  */
 public class SequentialSearch<Key,Value> {

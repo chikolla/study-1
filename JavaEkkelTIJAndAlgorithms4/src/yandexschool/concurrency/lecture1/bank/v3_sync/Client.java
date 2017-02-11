@@ -1,12 +1,9 @@
-package yandexschool.concurrency.lecture1.bank.v2_concurr;
-
-import yandexschool.concurrency.lecture1.bank.v1_seq.Account;
-import yandexschool.concurrency.lecture1.bank.v1_seq.Bank;
+package yandexschool.concurrency.lecture1.bank.v3_sync;
 
 import java.io.*;
 
 /**
- * Created by nugusbayevkk on 2/10/17.
+ * Created by nugusbayevkk on 2/11/17.
  */
 public class Client extends Thread {
     static final int numClients = 2;
@@ -23,25 +20,23 @@ public class Client extends Thread {
     }
     public void run() {
         int i=0;
-        while (i<3) {
+        while (i<4) {
             try {
-                out.print("Account id:");
+
                 String accountId = in.readLine();
+                out.println("Account id: "+accountId);
                 Account account = bank.getAccount(accountId);
-                if (account == null) {
-                    throw new Exception("Account not found");
-                } else {
-                    out.println("Balance: " + account.getBalance());
-                }
-                out.print("Enter amount: ");
+                out.println("Balance: " + account.getBalance());
+
                 int value = Integer.parseInt(in.readLine());
-                if (account.getBalance() + value >= 0) {
-                    Thread.sleep(100);
-                    account.post(value);
-                    Thread.sleep(100);
-                    out.println("Balance:" + account.getBalance());
-                } else {
-                    throw new Exception("Not enough money!");
+                out.println("Enter amount: "+value);
+                synchronized (account) {
+                    if (account.getBalance() + value >= 0) {
+                        account.post(value);
+                        out.println("Balance:" + account.getBalance());
+                    } else {
+                        throw new Exception("Not enough money!");
+                    }
                 }
             } catch (Exception e) {
                 out.println("Error! " + e.getMessage());
@@ -57,8 +52,8 @@ public class Client extends Thread {
             File inFile = new File("/data/test/input" + (i+1));
             try {BufferedReader in = new BufferedReader(
                     new InputStreamReader(new FileInputStream(inFile)));
-            clients[i] = new Client(i+1, bank, in, System.out);
-            clients[i].start();
+                clients[i] = new Client(i+1, bank, in, System.out);
+                clients[i].start();
             }catch (Exception e){
             }
         }
