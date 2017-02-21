@@ -1,0 +1,48 @@
+import numpy as np
+import scipy as sp
+import re
+from collections import Counter
+from scipy import spatial
+import heapq
+
+file_obj = open('sentences.txt', 'r')
+str = file_obj.read().lower()
+word_list = re.split('[^a-z]', str)
+word_list_not_empty = [a for a in word_list if a != '']
+world_count = Counter(word_list_not_empty)
+
+n = 0
+lines = []
+file_obj = open('sentences.txt', 'r')
+for line in file_obj:
+ s = line.lower()
+ s = re.split('[^a-z]', s)
+ s = [a for a in s if a != '']
+ lines.append(s)
+ n=n+1
+
+world_list_raw = world_count.keys()
+world_list = list(world_list_raw)
+
+i=0
+j=0
+d = len(world_count)  # d = 254, n = 22
+a = np.zeros(shape=(23,255))
+while i < n:
+ j= 0
+ while j < d:
+  a[i][j] = lines[i].count(world_list[j]) 
+  j = j + 1
+ i = i + 1
+
+main_line = a[0]
+result = []
+i = 0
+while i < n:
+ result.append(spatial.distance.cosine(a[0], a[i]))
+ print(i)
+ print(result[i])  
+ i = i + 1
+ 
+  
+print(heapq.nsmallest(2, result))
