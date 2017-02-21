@@ -30,6 +30,13 @@ hashCode() - necessary only if the class will be placedd in a HashSet or LinkedH
 
 for good programming style you shoud always override hashCode()
 
+SortedSet
+	Comparator comparator()  - used for this Set, or null for natural ordering;
+	Object first() - produces the lowest element.
+	Object last() - produces the highest element.
+	SortedSet subSet(fromElement , toElement) -produces a view of this Set with elements from fromElement, inclusive ,to toElement, exclusive.
+	SortedSet headSet(toElement) - produces a view of this Set with elements less than toElement
+	SortedSet tailSet(toElement) - produces a view of this Set with elements greater than or equal to fromElement.
 
 
 	
