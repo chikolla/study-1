@@ -1,0 +1,35 @@
+import numpy as np
+import matplotlib.pyplot as plt
+
+x = np.array([1,4,10,15])
+n = len(x)
+A = np.zeros((n, n))
+
+def f(x):
+ return np.sin(x/5)*np.exp(x/10)+5*np.exp(-x/2)
+
+def f1(x):
+ A[:,0] = x
+ A[:,1] = 1
+ k1 = np.linalg.solve(A,f(x))
+ return k1[0] * x + k1[1]
+
+def f2(x):
+ A[:,0] = x**2
+ A[:,1] = x
+ A[:,2] = 1
+ k2 = np.linalg.solve(A,f(x))
+ return k2[0] * x **2 + k2[1] * x + k2[2]
+
+def f3(x):
+ A[:,0] = x*x*x
+ A[:,1] = x**2
+ A[:,2] = x
+ A[:,3] = 1
+ k3 = np.linalg.solve(A,f(x))
+ return k3[0]*x**3 + k3[1]*x**2 + k3[2]*x + k3[3]
+
+plt.plot(x, f(x), x, f3(x))
+plt.show()
+
+print(k3)
