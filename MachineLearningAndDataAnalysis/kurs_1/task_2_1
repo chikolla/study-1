@@ -1,0 +1,13 @@
+from scipy.optimize import minimize
+from math import exp, sin
+import numpy
+from numpy import *
+
+x = [1, 30]
+
+def f(x):
+ _obj = lambda x: sin(x/5)*exp(x/10) + 5*exp(-x/2)
+ return _obj(numpy.linalg.norm(x))
+
+res = minimize(f, x, method = 'BFGS')
+print(round(res.fun, 2))
