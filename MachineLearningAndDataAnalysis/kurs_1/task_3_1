@@ -1,0 +1,51 @@
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+import scipy.stats as sts
+%matplotlib inline
+from math import sqrt 
+
+beta_rv = sts.beta(a,b)
+sample_beta = beta_rv.rvs(1000)
+
+x = np.linspace(0,1,100)
+pdf = beta_rv.pdf(x)
+ 
+df = pd.DataFrame(sample_beta, columns = ['KDE'])
+ax = df.plot(kind='kde')
+
+plt.plot(x, pdf, label='theoretical pdf',c='r',alpha=0.5)
+plt.hist(sample_beta,normed=True,color='grey',label='actual')
+plt.legend()
+plt.ylabel('$f(x)$')
+plt.xlabel('$x$')
+
+
+MU = a/(a+b)
+VAR = (a*b)/(((a+b)**2)*(a+b+1))
+SIGMA = sqrt(VAR)
+
+def clt(sample,sub_sample_size,n=1000):
+ means = []
+ for i in range(n):
+  sub_sample = sample[np.random.randint(0,len(sample),sub_sample_size)]
+  means.append(np.mean(sub_sample))
+        
+ mu = np.mean(means)
+ sigma = np.std(means,ddof=1)
+ SE = SIGMA/sqrt(sub_sample_size) # стандартная ошибка среднего
+   
+ norm_rv = sts.norm(MU,SE)
+   
+ print('Теоретическое среднее vs приближенное: {:.2f} vs {:.2f}'.format(MU,mu))
+ print('Теоретическое стандартное откл. vs приближенное: {:.2f} vs {:.2f}'.format(SE,sigma))
+ print('Приближенное среднее 95% доверительный интервал = {:.2f} +/- {:.2f}'.format(mu,2*SE))
+  
+ plt.hist(means,normed=True,label='actual2')
+ plt.plot(x,norm_rv.pdf(x),label='theoretical')
+ plt.legend()
+ plt.ylabel('$f(x)$')
+ plt.xlabel('$x$')
+    
+    
+clt(sample_beta,5)    
